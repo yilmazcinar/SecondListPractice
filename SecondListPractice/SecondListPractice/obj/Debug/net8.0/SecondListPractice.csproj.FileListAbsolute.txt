@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\SecondListPractice\SecondListPractice\bin\Debug\net8.0\SecondListPractice.exe
+C:\Users\caplo\source\repos\SecondListPractice\SecondListPractice\bin\Debug\net8.0\SecondListPractice.deps.json
+C:\Users\caplo\source\repos\SecondListPractice\SecondListPractice\bin\Debug\net8.0\SecondListPractice.runtimeconfig.json
+C:\Users\caplo\source\repos\SecondListPractice\SecondListPractice\bin\Debug\net8.0\SecondListPractice.dll
+C:\Users\caplo\source\repos\SecondListPractice\SecondListPractice\bin\Debug\net8.0\SecondListPractice.pdb
+C:\Users\caplo\source\repos\SecondListPractice\SecondListPractice\obj\Debug\net8.0\SecondListPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\SecondListPractice\SecondListPractice\obj\Debug\net8.0\SecondListPractice.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\SecondListPractice\SecondListPractice\obj\Debug\net8.0\SecondListPractice.AssemblyInfo.cs
+C:\Users\caplo\source\repos\SecondListPractice\SecondListPractice\obj\Debug\net8.0\SecondListPractice.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\SecondListPractice\SecondListPractice\obj\Debug\net8.0\SecondListPractice.dll
+C:\Users\caplo\source\repos\SecondListPractice\SecondListPractice\obj\Debug\net8.0\refint\SecondListPractice.dll
+C:\Users\caplo\source\repos\SecondListPractice\SecondListPractice\obj\Debug\net8.0\SecondListPractice.pdb
+C:\Users\caplo\source\repos\SecondListPractice\SecondListPractice\obj\Debug\net8.0\SecondListPractice.genruntimeconfig.cache
+C:\Users\caplo\source\repos\SecondListPractice\SecondListPractice\obj\Debug\net8.0\ref\SecondListPractice.dll
